@@ -10,14 +10,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <body>
+      <main>
         <Header title="Fargo Software" />
         <p className="details">
           Call (818) 370-xxxx 
         </p>
-  
-  <img src="Software.jpg" alt="software image" width="300" height="200">
-      </body>
+      </main>
 
 
       <Footer />
