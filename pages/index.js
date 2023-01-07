@@ -16,7 +16,7 @@ export default function Home() {
           Call (818) 370-xxxx 
         </p>
   
-  <img src="software.jpg" alt="software image" width="300" height="200">
+  <img src="Software.jpg" alt="software image" width="300" height="200">
       </body>
 
 
