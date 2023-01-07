@@ -15,6 +15,8 @@ export default function Home() {
         <p className="details">
           Call (818) 370-xxxx 
         </p>
+  
+  <img src="software.jpg" alt="software image" width="300" height="200">
       </body>
 
 
