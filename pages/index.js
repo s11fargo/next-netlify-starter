@@ -19,7 +19,7 @@ export default function Home() {
   
       <body>
         <p> Test </p>
-        <img src="https://source.unsplash.com/user/c_v_r/100x100">
+        <img src="https://source.unsplash.com/user/c_v_r/100x100"></img>
       </body>
 
       <Footer />
