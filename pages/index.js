@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Fargo Software
+        <Header title="Fargo Software" />
+        <p className="dedails">
+          Call (818) 370-xxxx 
         </p>
         <img src="Software.jpg" alt="Software">
       </main>
