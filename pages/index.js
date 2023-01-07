@@ -18,7 +18,7 @@ export default function Home() {
       </main>
   
       <body>
-        <img src="Software.jpg" alt="Software Image" width="30" height="20"></img>
+        <img src="Software.jpg"></img>
       </body>
 
       <Footer />
