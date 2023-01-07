@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Fargo Software
         </p>
-    
+        <img src="Software.jpg" alt="Software">
       </main>
 
       <Footer />
