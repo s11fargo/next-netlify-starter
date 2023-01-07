@@ -17,7 +17,6 @@ export default function Home() {
         </p>
       </main>
 
-        <img src="Software.jpg" alt="Software" width="300" height="200">
 
       <Footer />
     </div>
