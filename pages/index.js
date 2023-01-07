@@ -18,8 +18,7 @@ export default function Home() {
       </main>
   
       <body>
-        <p> Test </p>
-        <img src="https://source.unsplash.com/user/c_v_r/100x100"></img>
+        <img src="Software.jpg" alt="Software Image" width="300" height="200"></img>
       </body>
 
       <Footer />
