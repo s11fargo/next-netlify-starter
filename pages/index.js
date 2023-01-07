@@ -19,6 +19,7 @@ export default function Home() {
   
       <body>
         <p> Test </p>
+        <img src="./Software.jpg" alt="Software Image" width="300" height="200">
       </body>
 
       <Footer />
