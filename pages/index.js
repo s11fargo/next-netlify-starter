@@ -16,7 +16,9 @@ export default function Home() {
           Call (818) 370-xxxx 
         </p>
       </main>
-
+<body>
+    
+    </body>
 
       <Footer />
     </div>
