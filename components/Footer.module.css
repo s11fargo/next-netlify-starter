@@ -5,6 +5,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 0 10px 0 10px; /* padding-top, padding-right, padding-bottom, padding-left */
+  margin-right: 50px;
 }
 .footer-links {
 	padding: 0 10px 0 10px; /* padding-top, padding-right, padding-bottom, padding-left */
