@@ -5,8 +5,11 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         <a class="footer-links" href="https://fargosoftware.netlify.app/">Made by Fargo Software</a>
+        <a "    "></a>
         <a class="footer-links" href="https://www.linkedin.com/in/sharon-fargo-a71b1054//">Linked In</a>
+        <a "    "></a>
         <a class="footer-links" href="https://www.instagram.com/">Instagram</a>
+        <a "    "></a>
         <a class="footer-links" href="https://www.yelp.com/">Yelp</a>
       </footer>
     </>
