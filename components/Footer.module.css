@@ -6,7 +6,9 @@
   justify-content: center;
   align-items: center;
 }
-
+.footer-links {
+	padding: 0 10px 0 10px; /* padding-top, padding-right, padding-bottom, padding-left */
+}
 .logo {
   height: 1em;
   margin: 5px;
