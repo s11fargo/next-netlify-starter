@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Fargo Software" />
         <p className="details">
-          For Software needs, Call (818) 370-4234 or Email: FargoSoftware@yahoo.com 
+          For Software needs (Automations, Integrations, Software Applications, Windows Apps, Services, and more...), Call (818) 370-4234 or Email: FargoSoftware@yahoo.com 
         </p>
       </main>
   
