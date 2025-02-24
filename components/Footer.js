@@ -5,7 +5,7 @@ export default function Footer() {
     <>
     <footer className={styles.footer}>
         <ul class="mylinks">
-             <li><a href="https://www.linkedin.com/in/sharon-fargo-a71b1054" target="_blank">Linked In</a></li>
+             <li><a href="https://www.linkedin.com/in/sharon-fargo-a71b1054" target="_blank">LinkedIn</a></li>
              <li><a href="https://www.yelp.com" target="_blank">Yelp</a></li>
              <li><a href="https://fargonotary.netlify.app" target="_blank">Fargo Notary</a></li>
         </ul>      
